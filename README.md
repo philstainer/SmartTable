@@ -1,5 +1,5 @@
 # SmartTable
-IE5 compilable custom table library
+IE5 compatible custom table library
 
 Example
 
